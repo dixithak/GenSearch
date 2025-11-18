@@ -5,11 +5,8 @@ logging.basicConfig(level=logging.INFO, format ='%(asctime)s - %(levelname)s - %
 
 
 list_of_files = [
-    "src/__init__.py",
-    "src/helper.py",
-    ".env",
-    "requirements.txt",
-    "setup.py",
+    "gensearch/__init__.py",
+    "gensearch/helper.py",
     "app.py",
     "research/trials.ipynb",
 ]
